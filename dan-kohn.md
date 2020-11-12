@@ -227,3 +227,8 @@ I am saddened by Dan's passing, and it brings to mind one of my own adventures w
 
 I didn't always agree with Dan, but I also never questioned his commitment to finding sustainable pathways for open source within the broader corporate world; the open source world is worse for having lost him.  And beyond his technical contribution, Dan was unfailingly decent:  my heart goes out to his family, who has prematurely lost a devoted husband and father.
 
+## Sukhdev Kapur
+
+I met Dan for the first time in Barcelona when he kicked off CNCF TUG. I was amazed at his passion and energy to drive the charter. I invited him to join CNTT and CNCF  TUG unconference session that I was hosting in Antwerp. At that point we both realized that our ideas were aligned and we started to communicate with each other on a regular basis. Many times he would ask me to cover for him if he was not going to be able to make it to session and vice versa. We will make sure to provide each other feedback.
+
+Dan was a very passionate, considerant, honorable man. His ora will be sorely missed. My sincerest condolences to his family. 
